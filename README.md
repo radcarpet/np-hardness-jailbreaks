@@ -1,2 +1,2 @@
 # np-hardness-jailbreaks
-Proving NP-Hardness for Jailbreak Attacks
+We provide a proof for the NP-Hardness of a jailbreak attack.
